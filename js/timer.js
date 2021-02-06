@@ -1,7 +1,7 @@
 $(function(){
     function timer(settings){
         var config = {
-            endDate: '2021-2-11 20:00',
+            endDate: '2021-2-12 20:00',
             timeZone: 'PRC',
             hours: $('#hours'),
             minutes: $('#minutes'),
