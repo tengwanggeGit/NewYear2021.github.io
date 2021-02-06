@@ -2,7 +2,7 @@ $(function(){
     function timer(settings){
         var config = {
             endDate: '2021-2-12 00:00',
-            timeZone: 'Europe/Dublin',
+            timeZone: '',
             hours: $('#hours'),
             minutes: $('#minutes'),
             seconds: $('#seconds'),
